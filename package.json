@@ -4,7 +4,7 @@
   "description": "Using JavaScript to its extent.\r Lets Build something cool.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
